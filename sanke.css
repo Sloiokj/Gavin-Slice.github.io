@@ -32,23 +32,4 @@ p {
     margin: 20px;
     padding: 25px;
 }
-
-.container {
-    display: flex;
-  }
-  
-  .left {
-    padding: 75px;
-    margin-right: auto;
-  }
-  
-  .center {
-    margin: 20px;
-    padding: 75px;
-  }
-  
-  .right {
-    padding: 75px;
-    margin-left: auto;
-  }
   
