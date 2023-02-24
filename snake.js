@@ -115,13 +115,3 @@ function placeFood() {
     foodY = Math.floor(Math.random() * rows) * blockSize;
 }
 
-window.onload = function() {
-    // ..
-    document.addEventListener("keydown", function(event) {
-        if ( this.getElementsByName.code,startwWith("Arrow")) {
-            event.preventDafault();
-        }
-        changeDirection(event);
-    });
-    // ...
-}
